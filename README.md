@@ -43,3 +43,9 @@ The News Data Provider Agent continuously fetches top news articles from an exte
 -API service used  [RapidAPI](https://rapidapi.com/hub). ⛓️ <br>
 -API used [SPOTIFY](https://rapidapi.com/Glavier/api/spotify23). :dependabot: <br>
 -Agent by [Agent Verse](https://agentverse.ai/) by [Fetch ai](https://fetch.ai/). <br>
+
+## Do try out this amazing tech:
+Follow the documentations of-<br>
+[Fetch ai](https://fetch.ai/docs)<br>
+[Agent Verse](https://fetch.ai/docs/guides/agentverse/creating-a-hosted-agent)<br>
+<b>Happy Coding 🤖🖇 </b>
